@@ -1,82 +1,63 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Portfolio | Arturo García Rodríguez",
+		name: "Arturo García Rodríguez",
+		email: "arturotphx@gmail.com",
+		logo: "../foto_informal.jpg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/ArturoTphx/",
+		linkedin: "https://www.linkedin.com/in/arturotphx",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack and native mobile app developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"My current strength lies in creating native mobile applications for both Android and iOS, using cutting-edge technologies to enable innovation. I have also worked on projects that require diverse technical skills, such as creating databases, servers, web applications, and automation using various programming languages.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Arturo García Rodríguez. I live in Costa Rice, where I design innovative ideas.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I have worked on a variety of projects; some in the private sector and others in the public sector. Part of the private projects involved the creation of Genius Tutoring Group, a company that will be launched in 2024, for which I was responsible for creating all the necessary technology, such as databases, servers, web and mobile applications, among other tasks. Additionally, I collaborated with a local government in the creation of a planning system that helped optimize 80% of the time spent on these tasks.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Launching of the company",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Management of the production launch phase; handling the trademark and tax registration; the release of technological platforms concurrently.",
+			logo: "./genius.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "",
 		},
 
 		{
-			title: "Project 2",
+			title: "Módulo de Definición y Seguimiento de los Planes Anuales Operativos",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Construction of a web application using PHP Laravel framework in which users can plan their projects",
+			logo: "./mora.jpg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.google.com/document/d/1UYsBNQYaiKPCQK1hkYBfUunFCoCQJPWR0BfFFM92G_c/edit?usp=drive_link",
 		},
 
 		{
-			title: "Project 3",
+			title: "Creation of mobile applications",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Native mobile apps made with: Kotlin, Jetpack Compose, Swift and SwiftUI who consumes a REST API",
+			logo: "./genius.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.google.com/document/d/1QfFe3Rhyz-MgrhS1XrzyCyKPXQWCWIHCEWjLnbhWQEQ/edit?usp=sharing",
 		},
 
 		{
-			title: "Project 4",
+			title: "Creation of technological foundations",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Design and creation of MySQL database, REST API, React JS web apps, and company emails",
+			logo: "./genius.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://docs.google.com/document/d/1EWF7jj__LFXuI0y91CXgSNiJGtjKGJxTshP_aHSIK4Q/edit?usp=sharing",
 		},
 	],
 };

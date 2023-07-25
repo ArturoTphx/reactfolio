@@ -1,37 +1,37 @@
+const keywords = [
+	"Genius Tutoring Group",
+	"Municipalidad de Mora",
+	"Arturo García Rodríguez",
+	"Arturo",
+];
+
 const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"My current strength lies in creating native mobile applications for both Android and iOS, using cutting-edge technologies to enable innovation. I have also worked on projects that require diverse technical skills, such as creating databases, servers, web applications, and automation using various programming languages.",
+		keywords: keywords,
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
-
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I have worked on a variety of projects; some in the private sector and others in the public sector. Part of the private projects involved the creation of Genius Tutoring Group, a company that will be launched in 2024, for which I was responsible for creating all the necessary technology, such as databases, servers, web and mobile applications, among other tasks. Additionally, I collaborated with a local government in the creation of a planning system that helped optimize 80% of the time spent on these tasks.",
+		keywords: keywords,
 	},
 
 	{
 		page: "projects",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: keywords,
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"You can contact me with the email: arturotphx@gmail.com or arturo@geniustutoringgroup.com",
+		keywords: keywords,
 	},
 ];
 
