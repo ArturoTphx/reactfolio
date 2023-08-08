@@ -34,12 +34,30 @@ const INFO = {
 		},
 
 		{
+			title: "Note Me",
+			description:
+				"Native Android App built with Jetpack Compose, MVVM and Dagger Hilt for educational purposes.",
+			logo: "./genius.png",
+			linkText: "View Project",
+			link: "https://docs.google.com/document/d/1akBkOhpit-y_LUM7QfDYIKKfMQfaz0qpVNNQbKle-zs/edit?usp=sharing",
+		},
+
+		{
 			title: "Módulo de Definición y Seguimiento de los Planes Anuales Operativos",
 			description:
 				"Construction of a web application using PHP Laravel framework in which users can plan their projects",
 			logo: "./mora.jpg",
 			linkText: "View Project",
 			link: "https://docs.google.com/document/d/1UYsBNQYaiKPCQK1hkYBfUunFCoCQJPWR0BfFFM92G_c/edit?usp=drive_link",
+		},
+
+		{
+			title: "Logic Expressions Analyzer",
+			description:
+				"Java Desktop App that analyzes a logic expression and generates a truth table, disjunctive, conjunctive and simplified form",
+			logo: "./una.png",
+			linkText: "View Project",
+			link: "https://docs.google.com/document/d/1VayWHT8sZXhH3AZsWPAqPpO3zMTdj0trgIhHWrckuas/edit?usp=sharing",
 		},
 
 		{
